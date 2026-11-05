@@ -1,0 +1,1 @@
+program uses the kaikki.org English words collection
