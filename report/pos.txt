@@ -1,0 +1,19 @@
+  157743  noun  ->  paleoseismology | chamaemyiid | crabstick | quadrat | cross-beam | proclinations | calligraphic projection | polyquinones
+   34586  verb  ->  pan-broiling | pipe one's eye | predimerized | playing to | change out | coannihilated | push past | crying one's eyes out
+   32996  adj  ->  Platine | Capuan | pharyngoepiglottic | camelliaceous | punched-out | corticalized | perisutural | pentalingual
+   27386  name  ->  Picenos | Palombas | Plumstead | Croixan | Code of Military Justice | Cori | Philanthropinum | Powelltown
+    4379  adv  ->  catholiquely | periocularly | pickback | poundingly | psychosocially | puzzlingly | questionlessly | para-articularly
+     528  prefix  ->  cren- | coraco- | patr- | ceco- | proteo- | clinico- | Cypro- | perineo-
+     465  intj  ->  capital | pop | polo | cheese and crackers | pfah | chop-chop | checks notes | pee-you
+     353  phrase  ->  Christmas comes early | QEF | could fit on the back of a postage stamp | curls for the girls | CSS | CWO | Polly want a cracker | PERRL
+      89  proverb  ->  cooler heads will prevail | cast not a clout till May be out | pigs get fat, hogs get slaughtered | curiosity kills the cat | children should be seen and not heard | proverbs should be writ in pairs | patience is a virtue | proverbs hunt in pairs
+      49  prep  ->  ca. | pro | past | care of | circ. | close by | closeby | cross
+      40  contraction  ->  canna | chill | packa | c'mere | cham | partsa | couplea | can've
+      36  num  ->  centillion | c | quadrilliards | centimillions | quadrillion | quadragintillion | quinvigintillion | P
+      26  symbol  ->  ppbv | psig | C$ | psi | C | C12 | C13 | C16
+      22  prep_phrase  ->  post mortem auctoris | per-cent | pro bono | per cent | p/h | PCM | per nocte | p.m.a.
+      20  conj  ->  choose | cause | quus | caze | precisely unless | cuz | cz | providing
+      20  pron  ->  quhom | perself | quhatsoever | quhich | quhat | che | ch | quho
+      18  det  ->  certain | q | quite some | certaine | cho' | quodque | quite a few | cho
+       6  character  ->  c | p | q | C | P | Q
+       4  particle  ->  can | quote | question mark | cha

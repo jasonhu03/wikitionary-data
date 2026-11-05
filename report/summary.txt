@@ -1,0 +1,4 @@
+lines read: 1,499,161
+p/q/c entries: 258,766
+entries with no sense tags: 66,814
+entries with no glosses: 237

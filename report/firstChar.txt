@@ -1,0 +1,7 @@
+  215241  lowercase  ->  coöccurred | panzarotti | podargids | picnickery | conny-catching | conquestor | pashaliks | chawls
+   55734  multi-word  ->  Port St. Joe | punch fisted | Pacific Ring of Fire | patas monkey | punch drunk syndromes | putting the hammer down | prison wine | crowd waves
+   40406  Capitalized  ->  Cavaness | Copticists | ChatGPT | Caesareans | Chobanian | Cashmans | Cregger | Pheiroijam
+   12079  hyphen  ->  pre-lash | comic-adjacent | pocket-flasks | cross-rhythms | price-conscious | post-date | C-peptide | punk-jazz
+    3119  ALLCAPS  ->  PCW | CCAFS | CDL | CIA | CBCP | PQE | PS4 | CIA
+    2694  non-ascii  ->  præserving | cœnobitic | præscient | Ceru-Băcăinți | Paraíso de Osorio | Pungești | Cernișoara | Cristolț
+    1488  other-chars  ->  PaO2/FiO2 ratio | P&T | polonium-210 | Q.E.D. | comp. lit. | Capt. | Cath. | PIV-5

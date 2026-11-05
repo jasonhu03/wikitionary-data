@@ -1,0 +1,31 @@
+  309780  id  ->  Colby | pseudoparaphyses | Camargo | publess | Putler | copperas | Poltava | cusinero
+  309543  glosses  ->  Punick | proportional analogies | Pigg | quinoproteins | pulledst | prewhitened | contracultural | propylium
+  299385  categories  ->  playblasts | pterineid | chocolate hot dogs | cushdie | comoving horizons | CPM | pantangs | person in the streets
+  298686  links  ->  paintings | cry oneself to sleep | pharmacochemists | pineapple opal | Copăcele | precoupled | polygastrian | peg-strips
+  218796  tags  ->  charoset | Patricks | concatenation trees | circumstellar discs | psychotherapeutists | pyrometallurgists | Crazy Ivan | chewing the fat
+   94216  form_of  ->  candees | panoses | pteroclids | purple-backed fairywrens | CSRF tokens | codifferentiating | cocking a deaf 'un | chloropyridines
+   86995  raw_glosses  ->  COD | paradactyl | que | prentice | crenator | private credit | pannariaceous | ceftazidimase
+   64335  examples  ->  pardon mon français | poster child | princified | paradox | crunchingly | posy sniffer | calvity | cooter
+   45954  topics  ->  carlosturanite | practical | pitcher's mound | perintegrate | pseudospoofing | contemnor | cefetecol | check out
+   34185  translations  ->  prude | planning | cochleography | computer architecture | Charpentier | pedosexuality | concession | Caucasian
+   29796  alt_of  ->  pudeena | coupleish | pull-quote | PLUS | PAIS | pseudocoelome | carefool | crisscross-row
+   26590  synonyms  ->  cyclamic | postdelivery | primitive element | preciosity | poppy | Corinthianism | cytotrophoblast | crude form
+   16118  related  ->  charvette | pathion | chilacayote | pay down | profurca | chronicle | proteolytically | conifer
+   13202  derived  ->  plane | pantaloons | cullible | choroidopathy | cryptococcosis | crustose | churchtown | Pashayan
+    4374  senseid  ->  prescription | poke salad | Petropolis | Providence | prick | celery | passkey | point
+    4152  coordinate_terms  ->  Powell River | cameraman | cronyism | paracolonial | Pip | correction | coconut wireless | cephalad
+    3887  qualifier  ->  put to bed with a shovel | cut | cut | peculiarly | calm as a cucumber | pimping | cessio bonorum | Peterhouse College
+    2755  attestations  ->  pyralid | cast | queer | pyrrole | petrific | production | Pavlivka | cooling center
+    2320  hypernyms  ->  pea-pheasant | parahockey | para nordic skiing | cyanobacterium | class-based language | come on | punctuation mark | coypu
+    2131  wikipedia  ->  Climategate | crook as Rookwood | Prowseton | Queen's County | Psalms | private law | cabbeling | Crux
+    2075  raw_tags  ->  promanation | concelebrate | chromoparous | come | pull up | perfidy | pycnaspidean | closed
+    1796  wikidata  ->  Catholic | cup | Portugal | Paris | CDO | parking space | Cardamom Mountains | police
+    1659  antonyms  ->  privately held | positive-edge-triggered | ceilinged | premium | pain | cagebox | preach up | catch on
+     851  hyponyms  ->  capstan | cotransporter | composite particle | carrus | cow | prisoners' bars | chawanmushi | platyconic
+     159  meronyms  ->  Pavlivka | cello | Palawan | carton | palatine artery | carbon group | chloroplast | cyclotomic field
+     107  holonyms  ->  corona glandis penis | purchasing | court of law | playing card | pump-jet | pinion | cordage | plank
+     105  head_nr  ->  phalanx | Curacautín | Pitrufquén | Clydesdale | Coelemu | Quillota | consternate | pattypan
+      40  info_templates  ->  champ | presume | call a halt | possessed | cede | part | part company | put the screws
+      11  instances  ->  physical property | promiscuous man | chess move | personal quality | Celtic language | poker variant | position (poker) | polysynthetic language
+       6  taxonomic  ->  ping | CSD | QID | citogenesis | piped link | puttage
+       5  troponyms  ->  position | precipitate | perforate | cook up | closure

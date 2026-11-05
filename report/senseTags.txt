@@ -1,0 +1,430 @@
+   94217  form-of  ->  quinzies | curmurrings | prorogates | corcasses | competimers | calligrammes | chicaned | circumagitated
+   69520  plural  ->  pritzim | cabinets | cooties | closetings | cyberscientists | conjure men | pianists | cyclopels
+   44783  uncountable  ->  pinhole grass | pedantry | controllability | phakomatosis pigmentokeratotica | circumvolation | claspbract sedge | PGT | consociationism
+   29796  alt-of  ->  psych | powerdrill | chattie | Pakistanee | cross-row | cytisin | praxiology | CFA
+   23934  not-comparable  ->  conirostral | coplanar | pres. | champagne | cocommutative | quasiharmonic | caconymous | cymbiform
+   19550  countable  ->  PCR | coopery | parasynthesis | cholestasis | circumambiency | cauterization | copolymerisation | POSIX time
+   16530  present  ->  quintupling | conforming | chooses one's battles | pushes up daisies | profferest | plussing | crosses the line | collimates
+   16343  alternative  ->  C.E. | counter-espionage | pheniceous | chayaroot | peruqued | pykno- | phakometer | Quinaielt
+   16156  participle  ->  putting into practice | coffeed | clawed back | played someone like a fiddle | catechizing | persevering | prepublished | prevoicing
+    8498  singular  ->  caponizes | puts someone's lights out | check-calls | puts in the ground | potentiates | particularises | pre-pends | partisanizes
+    8387  indicative  ->  catches a fade | picks up the threads | pettyfogs | cardens | colors inside the lines | puffs out | progrades | puts past
+    8285  past  ->  chump blocked | cryomilled | clicketed | precame | coled | comraded | compaginated | passed the hat
+    8073  gerund  ->  caucussing | pounding the pavement | cocasting | cruelling | cytobrushing | poulticing | portaging | patronizing
+    7954  third-person  ->  pills | putts from the rough | comfort-eats | cabbages | commoves | coinfuses | co-locates | presoftens
+    7691  abbreviation  ->  PBA | PGDipLP | COBRA | CHD | PNP | cowboy | CPIL | PILOT
+    7607  obsolete  ->  cupboard | pollax | cancroine | pickpurse | choyce | cabinet | pollankan | cautelously
+    5809  transitive  ->  pay off | crack up | peg | pitchfork | pug | presume | presharpen | chew on
+    4598  slang  ->  pisshouse | cruise | CRC | pussy pad | puker | pork up | cack | C
+    4456  initialism  ->  PBG | QA | PAL | CVSA | PB&J | PCOC | QFT | COB
+    4212  archaic  ->  prosecuteth | crepuscule | pestereth | Punjaubee | parlor | play booty | pyroxyle | calicular
+    3295  historical  ->  Pithoigia | Cassiar | Parliamentary heel | Calixtine | piss-prophet | Qi | pricksong | pardoner
+    3257  rare  ->  chandlerly | pedophobic | paklava | puddle-hound | castellate | proscriptivist | potamophobia | categise
+    3122  informal  ->  queernorm | permie | chickenarian | cheesecakey | chestal | plyos | peek | priss
+    3059  usually  ->  pleasantness | cryocrastination | courage | paraheliotropism | couplezilla | programming | creatability | poppycock
+    2859  US  ->  property | pleb | pecker checker | proletarianize | PDMP | parish | center | casita
+    2655  UK  ->  claykicker | cockle | CAMHS | centre forward | playock | cattle crush | Canaries | poddish
+    2621  intransitive  ->  cycle off | cameltoe | come down | carry the message to Garcia | cacophonize | cream up | peak | come back
+    1998  dated  ->  costermongerish | cheloid | care a whit | China girl | purgannah | clout | cash boy | pneumotomy
+    1777  idiomatic  ->  put up with | cruel mistress | comfort girl | charm offensive | pigeon | come along | cat-foot | chilly climate
+    1715  derogatory  ->  pricklouse | cockmunch | cot-quean | clickbaiter | Palestinkian | cope | piss in the popcorn | coconut
+    1412  figuratively  ->  counterparry | proving ground | petty | cesspit | cataract | culminate | companion | cream puff
+    1404  misspelling  ->  papiliform | chagrinned | postzygaphophysis | catylist | capeable | cytoxicity | convulvulus | calcequestrin
+    1200  plural-only  ->  choppers | cuchufli | prags | pharmaceutics | craftsfolk | party potatoes | congressfolks | Casluhim
+    1006  colloquial  ->  cuss | churchy | chatteration | pap | chug | cuss | punk | crazy enough to work
+     985  vulgar  ->  cunt-struck | piss-elegant | cunt cap | piss artist | cockpit | cock watch | cunt hair | cockblock
+     941  broadly  ->  consul | curtain | potluck | pill | chestly | point | plug | palindrome
+     835  Internet  ->  Pepperidge Farm remembers | pootis | photosharing | cheese tax | chromie | chapri | private message | copystrike
+     718  morpheme  ->  pancreatico- | per- | per- | cario- | conico- | pan- | quadri- | Pak-
+     708  Australia  ->  cobbra | pine | papers | pom | pfella | CQ | pay the rent | paddock
+     685  Canada  ->  cooktop | pizza store | come in hot | canoeman | CH | pharmacare | CDA | pain in the ass
+     679  humorous  ->  coomer | Captain Hindsight | cheese-eating surrender monkey | comiconomenclaturist | pavement pizza | Chrimbus | poorsies | phudnik
+     610  uncommon  ->  cageling | Cosen | priestlier | Princy | cross-exam | Christofilos effect | problem | pecker
+     544  ellipsis  ->  para-nordic | premarital | pound | Pony | carbon fiber | Charles de Gaulle | Chaves | Corpus Christi
+     516  dialectal  ->  pickietar | peartly | consarn it | crump | chawl | calveren | plumpendicular | cha
+     480  nonstandard  ->  chasmous | penalisable | proletarianisation | presumingly | clinged | commercialise | crept out | contentsome
+     478  superlative  ->  poufiest | cheekiest | cluckiest | crankest | painfullest | perviest | clearliest | peskiest
+     467  Scotland  ->  crouse | poustie | pettle | cappie | crash | poindable | precognosce | pigful
+     463  Ireland  ->  ponce | champion | pride of the morning | CAB | pound shop | controlled drug | paralytic | capernosity
+     454  comparative  ->  phunnier | cheepier | crapper | purpler | chiefer | pitchier | plunkier | chickenier
+     447  India  ->  cadamba | pandal | panchnama | chamchagiri | pradhaman | chatta | chhatra | chithi
+     438  second-person  ->  creditest | canst | pennest | plantest | comedst | payest | copedst | perpetuatest
+     432  acronym  ->  CLAF | PMEE | POCO | CASM | CATO | CBVIR | POP | CHIP
+     411  clipping  ->  paeleo | priv | proto | comp | proxy | combi boiler | Chevy | portable
+     386  in-compounds  ->  propenone | phenanthrenyl | cyclopentenyl | cheval | carbamido | quinazolino | cytidyl | caffeoyl
+     383  Philippines  ->  carnap | CFO | Christmas Capital of the Philippines | PAGASA | PETC | ConCon | crossing | Chinese garter
+     374  often  ->  place | candyboy | clit | cabinet | crowd | cut back | comparable | pussy magnet
+     373  especially  ->  coxless pair | perfluoroalkyliodonium | picayune | click-through | city limit | carry | pea | pentosyl
+     356  offensive  ->  cock smoker | Christfag | Chinese virus | cuntster | cullion | child-fucker | Cuntingham | piece of shit
+     351  New-Zealand  ->  poupou | Pakeha | cut out | cut out | cell phone | polytech | chud | paddock
+     336  ambitransitive  ->  clump | co-op | creed | criticize | criticise | pickle | polaroid | cry
+     317  attributive  ->  point of use | plaster-of-Paris | cheese-eating | potluck | premobilization | Pascha | queen | Christmas
+     305  pronunciation-spelling  ->  Canajun | pernt | propah | celebratin' | conjurin' | chasin' | Canajun | chatterin'
+     291  sometimes  ->  prophylaxis | phenomenons | cosmopolitanism | popular psychology | Pax Judaica | creator | colden | prodeath
+     282  euphemistic  ->  commons | petty | chunky | piddlepants | protective pants | PO'd | powder room | chemically imbalanced
+     270  no-plural  ->  Chinese hound's tongue | propreantepenult | cœnæsthesia | qin tan | qaddish | peplosphere | cockabondy | carol-oke
+     237  no-gloss  ->  plenished | plumbed | paragoned | crackwit | possessing | phosphanium | palmitostearic acid | phenylpropionic acid
+     232  in-plural  ->  canion | Cornhusker | pitchfork | parcels | palynofacy | cousin | champ | cheb
+     226  Greek  ->  Chthonia | Polynoe | Charon's obol | Chrysaor | Cepheus | Pheme | Phoebe | Pleiad
+     217  neologism  ->  palooza | podcastable | cult | Cappie | covid-19 party | pakodanomics | protestware | quing
+     200  physical  ->  chemical equilibrium | cis effect | Curtius rearrangement | power | cationically | cation | condensation | close
+     199  plural-normally  ->  pushie | police | crab's eye | cuntlips | police | porcelain | coattail | cobweb
+     185  Commonwealth  ->  COA | colour TV | plain flour | cheque | party and party costs | poofter | publican | chat shit
+     182  slur  ->  palefaced | currycel | Chrislamic | Chink | pajeeta | poo | panface | curry
+     164  ethnic  ->  clog wog | chimp | coconut | China girl | curry-muncher | Chink | chigga | pickaninny
+     160  also  ->  plume | constitutional | plash | paddock | potluck | caddy | palisade | plunk
+     150  Singapore  ->  commander | powderful | chiong | cai png | CCA | planning area | chilli crab | poh
+     142  formal  ->  correctional center | quoad omnia | countervailing | cynophagist | care | prevolitional | partake | conjecture
+     142  relational  ->  podophyllaceous | phallaceous | parmulariaceous | pleuromeiaceous | phaseolaceous | cercidiphyllaceous | chaetothyriaceous | coprinaceous
+     138  rhetoric  ->  periphrasis | procataleptic | paregmenon | Persianism | Croatism | paralepsis | paronomasia | prosopographia
+     138  literary  ->  cast | pellucid | profit | comely | Paphian | pilgrim | capernosity | possess
+     134  proscribed  ->  Changan | Chinaman's Peak | conspiratorial | censi | censorious | conjugation | perihelions | penultimate
+     133  South-Africa  ->  caucus | crunchie | pommy | cheque card | pants | pavement | cold drink money | pikkie
+     128  regional  ->  pug | pank | clump | parrock | pity | quitch | pecker | proper
+     116  childish  ->  poopyface | piece of poop | poppa | pooh | poopypants | pooplike | PJs | porky
+     112  poetic  ->  chasten'd | clarion | plain | caverned | comely | pontifical | clarion | plenilune
+     100  mildly  ->  crapshow | chirper | pissed | pissy-pants | put foot to ass | piss on the poor | pot boiler | crap up
+      95  Judaism  ->  chavrusa | chevra kadisha | Chumash | chavurah | Conservative Judaism | Conservative | phylactery | chremsel
+      90  literally  ->  chisel up | can-kicking | put someone through their paces | colligate | claw off | credit card slot | connect the dots | cold case
+      89  metonymically  ->  printing press | power | Caracas | pipe | cunny | Phnom Penh | Canberra | chat
+      88  collective  ->  camp | crash | choir | Cornish | peep | camp | pubic hair | crèche
+      87  British  ->  chunter | quadrillion | quintillion | canonize | charming | cannulized | centralize | centralize
+      86  Northern-England  ->  caffle | pubble | powfagged | posh | quicken | pop | crestie | peevish
+      85  specifically  ->  primipara | cerement | pandemic | perv | precarity | plaudit | polypill | public domain
+      83  Hinduism  ->  panda | pitris | Chitravahana | pagoda | purusha | Pingala | Chitrangada | Chitrangadā
+      71  Malaysia  ->  PLUS | chop | petrol station | cheebai | chilli crab | Peranakan | ceramah | pendidikan
+      69  Singlish  ->  pai kia | chewren | cheekopek | can | chouchou | pundeh | chiong | chiong
+      64  contraction  ->  canna | prinks | coulda | cudn't | c'min | cannet | chave | couplea
+      63  Multicultural-London-English  ->  peak | p's | pepper | poker | pattern | poomplex | Pecknarm | pea
+      59  Southern-US  ->  Coke | Co-Cola | pot liquor | poke | chess pie | parlor | chap | chaw
+      58  reflexive  ->  cousin | plonk | compose | pride | perjure | quit | plume | possess
+      55  endearing  ->  childling | pudsy | candyboy | candy-arsed | pretty boy | poppy | piggy | piggy
+      55  Ancient-Rome  ->  contubernium | cohort | praetorian | conclamatio | Praetorian | pandect | publican | pantomime
+      52  Pakistan  ->  PCT | committee | chick-blind | pilu | PIMS | chapri | PSO | PMA
+      52  English  ->  centralize | catastrophise | personalization | criticize | privatization | parameterisable | pernicketily | couponner
+      52  standard  ->  clangor | colorable | cozily | preenrollment | pernicketily | colorlessness | parlourless | quarreling
+      48  nonce-word  ->  pneumonoultramicroscopicsilicovolcanoconiosis | cognite | quadrobulary | chaophilia | pedagoguette | predevote | py chiminey | coze
+      48  South-Asia  ->  current | challan | patwari | pallu | phiran | pandal | quantum | quantum
+      48  England  ->  chuffing | CBO | Cross Fell | commonhold | paper book | pie crust lease | pug | pucksy
+      48  Caribbean  ->  pickny | pappyshow | chimbley | constab | chimley | carry-go-bring-come | crappo | chadon beni
+      47  Hong-Kong  ->  QE | corrupt practice | cheongsam | PTH | chur | cage home | com sec | Chung Yeung Festival
+      45  Jamaica  ->  crease | pappyshow | cowfoot | cotch | Pukkumerian | patty | cotch | panya
+      45  Roman  ->  Parcae | Pluto | Polus | Phoebus | pandemic | commixtion | Charon's obol | Ceres
+      43  misconstruction  ->  cowbell | purplely | quintate | pictorally | portentious | catherizes | pseudoconscience | channel coal
+      42  Cornwall  ->  pig's-crow | cabobble | cheldern | quilkin | coffin | pryany | coose | creener
+      41  empty-gloss  ->  propoxy | pillar and stall | quasidefinite | cortical alveolus | principiant | power rule | quasiparton | pseudohyperbolic
+      40  capitalized  ->  country | pietism | civilization | prider | cornhusker | congress | cabinet | peripatetic
+      40  Wales  ->  poor dab | cwtch | combination | PCC | PWITS | CBO | pug | chopse
+      40  Geordie  ->  clamming | chodder | cushat | clip | polis | cadgin | charvette | pit-yacker
+      38  Cockney  ->  cattled | cattle | plate | Currant Bun | chevy chase | cobblers | pony and trap | cattle trucked
+      37  Oxford  ->  centralization | privatize | criticize | cannulized | canonize | caricaturize | centralize | canonize
+      36  possibly  ->  concrete | clash | ciderkin | Pintubi | city pigeon | Portuguesean | cuprine | quog
+      35  postpositional  ->  palatine | CH | palatine | printanier | puttanesca | plus | plus | pur sang
+      34  with-definite-article  ->  Canon | cane | province | chop | cloth | chilblains | Plains | quick
+      34  Western  ->  communism | pony | Post-Gazette | city chicken | quirly | pug | charqui | Carbon Oil
+      31  ditransitive  ->  cost | put past | put on | put up to | plug into | promise | put on | put on
+      30  Appalachia  ->  cranberry | coal oil | crick | casing | cut a shine | commence | put it off on | pickemup
+      30  agent  ->  pinner | promenader | prober | paganizer | crumbler | clouder | powderer | chivvier
+      29  hypercorrect  ->  palæoanthropologist | phoetuses | palaeoanthropology | periploi | phoetus | curricula vitarum | cameth | prophanity
+      28  particle  ->  charged particle | charm | proton | PeVatron | color charge | quarkonium | paraquarkonium | pion
+      28  no-present-participle  ->  chut pattern | cannot help but | can but hope | can't help | can wait | can do with | can't even | can't get enough
+      26  imperative  ->  catch oneself on | pull | pull up a floor | choke up | put an egg in one's shoe and beat it | cut it out | put a lid on it | put one's hands together
+      26  onomatopoeic  ->  cooee | psst | potato | chig | clink | phrrt | ploop | prrt
+      25  Canadian  ->  clipping | PET | PC | Parti Quebecois | center | pur et dur | pivot | CFLer
+      25  ironic  ->  popular beat combo | cap it all off | chief | chief | charmer | pour encourager les autres | priceless | charming
+      24  no-past-participle  ->  can't wait | can't wait | can't be fagged | can do with | can't help but | can't seem | can't be bothered | can't even
+      23  Northern-Ireland  ->  chucky | quickens | quicken | peace line | Proddie | PSNI | paddock | paddock
+      23  feminine  ->  parvenue | coffeewoman | creaturess | Chekhova | compositress | productrix | pedantess | pollstress
+      23  sarcastic  ->  can wait | pray tell | promises, promises | quelle surprise | press F to pay respects | Captain Obvious | pearl of wisdom | people sit on chairs
+      22  Philippine  ->  quad com | PGMA | Con-Ass | PNoy | ConCom | Quad Committee | QuadComm | PDAF
+      21  comparable  ->  pileous | particular | priceless | paperbound | celestial | pointed | priceless | chromatic
+      21  diminutive  ->  pettie | postie | polester | cunny | celly | Cris | churchling | chickie
+      20  Yorkshire  ->  close | cup-rose | couldn't stop a pig in a passage | crookle | pize | pot o' one | pelf | pikelet
+      20  Marxism  ->  capitalism | class-based | commodity | cultural Marxism | petty bourgeoisie | petite bourgeoisie | cybertariat | class enemy
+      19  New-England  ->  Parker House roll | codfish aristocracy | pissah | packie | chirk | catch on | contra | Chinese home run
+      18  Pennsylvania  ->  pannhas | coal patch | cupboard | crayfish | Pollyanna | putz | Post-Gazette | Carbon Oil
+      18  China  ->  Qomolangma Feng | capitalist roader | chit | PTE | CCTV | CAG | qu | CCAV
+      18  Leet  ->  ch3ap | pwned | pwnz0r | pl0x | pwnage | penor | pix0r | p1ll
+      17  Nigeria  ->  corper | pollute | chance | crazy man in the bottle | push-me-I-push-you | packer | commutal | ponmo
+      17  ergative  ->  port | close | close | clarify | place | pillarize | construe | char
+      17  excessive  ->  parallel | quadzillion | quintillion | catch in 4K | painted-on | could not get elected dogcatcher | prehistory | Paleolithic
+      17  deliberate  ->  clazz | pakige | peam | pawb | caek | covfefe | covfefe | phrog
+      17  Australian  ->  Cinderella State | china plate | cack | crossbench | Playmander | chuck a uey | COA | crossbench
+      17  Modern  ->  pity | caeremony | portass | compleat | cæremony | cærimony | clowdy | clowd
+      17  Trinidad-and-Tobago  ->  quenk | crocus | pacotille | cackrey | creolization | pastelle | crappo | pichakaree
+      16  Manglish  ->  pundeh | paiseh | pondan | paiseh | can | pok kai | paiseh | peng
+      16  Polari  ->  charper | palone-omi | cartes | charpering omi | polari | charver | charver | charver
+      16  Quebec  ->  pudding chomeur | Parliament Hill | classical college | coproprietorship | casse-croute | pâté chinois | QPF | PAT
+      16  Midlands  ->  pop | cob | chobble | cockle | chimblins | pittle | pittle | pedgill
+      16  Early  ->  pity | consistory | cæremony | post off | countre | clowd | cerimony | portass
+      16  West-Country  ->  courtlage | proper job | chad | cham | proper job | chell | putten | casn't
+      16  translation-hub  ->  public telephone | childhood friend | positive number | customs clearance | primary school student | coconut shell | cooked rice | personal data
+      15  Louisiana  ->  picayune | papabote | crawfish | piastre | Cajun flamingo | pass a good time | pistolette | peremption
+      15  Guyana  ->  patwa | pagalee | cambio | crappo | powis | caddy ole punch | chunkay | Creolese
+      15  Ancient-Greek  ->  coronis | physis | partheniac | perispome | Ctimene | partheniac | Pherecratean | Pherecratean
+      14  Japanese  ->  circle | power level | pon | pinfu | paizuri | chii | cobang | princess carry
+      14  Africa  ->  chest | Cape | palaver | parastatal | panga | chama | posho | poyo
+      14  Northumbria  ->  pittle | canny | canny | canny | pittle | cowie | cleugh | pittle
+      13  Hawaii  ->  poke | pilau | painiu | popolo | pau | pakalolo | pakalolo | chiefess
+      13  Irish  ->  Cethlenn | Cimbáeth | Celtchar | cultural centre | Cethern | Cú Roí | CPI | Cú Chulainn
+      12  with-on  ->  catback | pigback | put one over | cut back | parasitic | pick up | premised | cut back
+      12  Japan  ->  CM | CA | CBC | cider | pierce | chanmery | coroner | peil
+      12  Indonesia  ->  CSIS | car jockey | pasanggrahan | pasar malam | popiah | Peranakan | pornoaction | coffee money
+      11  Mormonism  ->  priest | celestial marriage | quad | PIMO | PPI | presidency | PEC | celestial plural marriage
+      11  copulative  ->  come | come out | plead | prove | play | persist | persevere | consist
+      11  Zimbabwe  ->  caucus | caucus | Cde | caucus | caucus | caucus | pungwe | CCC
+      11  California  ->  clambake | clambake | Cleveland sage | Carmageddon | CHPer | postmile | pitcher sage | pitcher sage
+      11  Latin  ->  crux gammata | Pherecratean | partheniac | partheniac | partheniac | partheniac | Pherecratean | Partheniac
+      10  Chinese  ->  phoenix | peng | checked tone | Chang'e | cold-natured | Pangu | peach of immortality | Chinese patent medicine
+      10  Northern-US  ->  pit | crust | cookie | conga line | pogy | puck palace | California burger | poghaden
+      10  Europe  ->  pilot | common mallow | comedy | Channel | polynose | playout | play out | POCO
+      10  Indo-European-studies  ->  centum | Common Slavic | Common Slavic | Paleo-Balkan | centumization | Caland system | Proto-Indo-Hittite | Cowgill's law
+       9  Newfoundland  ->  pound | coady | chinch | cocky | chummy | clumper | crackie | clumpet
+       9  modal  ->  can | can | can | clearly | considering | categorically | plausibly | positively
+       9  European-Union  ->  comitology | CAP | CMFB | PDO | Commissioner | CRA | PGI | Commissioner-designate
+       9  Myanmar  ->  platform | purdah | punkah | cele | palata | pandal | cinema hall | copy song
+       9  Maine  ->  pot | cunning | Patriot's Day | cutter | culch | culch | culch | pokelogan
+       9  predicative  ->  champion | plum coloured | purely | pissah | poggers | paperwall | coola boola | plum colored
+       9  East-Anglia  ->  cob | pry | callow | crome | crome | pulk | piewipe | clubster
+       9  Northern  ->  chip | pyet | crack the flags | prin | prin | pawky | Cabbage Night | chuchupate
+       9  error-unknown-tag  ->  quicksilver | quicksilver | quicksilver | playa | perv | perv | perv | playa
+       9  Bangladesh  ->  purdah | chula | puchka | chargesheet | chargesheet | cdi | pirism | pourasabha
+       9  Navy  ->  chief petty officer | chief petty officer | chief petty officer | petty officer first class | petty officer first class | petty officer second class | chief petty officer first class | petty officer third class
+       9  Meitei  ->  Panthoibi | Pakhangba | Panam Ningthou | Phou Ningthou | Phouoibi | Pisatao | Pureiromba | Pebet
+       8  Northeastern  ->  pie | paper | clove | clicker | cellar | pocketbook | cruller | camp wood
+       8  auxiliary  ->  can | can | can | can | can | can | quoth | cld
+       8  Southern  ->  cane | crib | converter | perlo | Cape | Cape | pissah | cooling glass
+       8  lowercase  ->  c | c | p | p | q | q | Promised Land | Promised Land
+       8  familiar  ->  covey | petal | poochie | cummie | pushie | crunchy mama | pampie | pampies
+       8  singular-only  ->  pity | crème de la crème | cup of tea | Cardinal Nephew | central dogma | paenultima law | penultima law | cybertariat
+       8  New-York  ->  piccolo | City | call out | parterre | cartman | clockmutch | call out sick | chopped meat
+       8  Ulster  ->  quim | quim | prickle | clinkers | cutty | cub | peenthrug | popehead
+       8  pejorative  ->  churchy | pommie | professional | popolo | Cocacolonization | Plastic Paddy | contractocracy | Crow Indian
+       8  Southwestern  ->  presa | pungle | paisano | cowboy beans | chuchupate | parandero | parciante | pucksy
+       8  invariable  ->  pakat | play-play | paiseh | chao keng | ceebs | pang sai | pang jio | pong pong
+       7  defective  ->  can | can | can | can | can | quoth | quoth
+       7  adjective  ->  cut | profligate | cut short | coinstantiated | cleidocostal | clidocostal | clidocranial
+       7  stative  ->  pass | pass | pastor | chef | coexist | cannot make it | platemog
+       7  Northwestern  ->  Persian | pop | pop | clambake | clambake | clambake | crummy
+       7  Israel  ->  caucus | caucus | caucus | caucus | caucus | caucus | caravilla
+       7  South  ->  pinkie | cowson | cowson | punkie | payasam | Punkie Night | punch dialogue
+       7  New-South-Wales  ->  pipi | pony | pink slip | cozzie | Port | potato scallop | Port Mac
+       7  person  ->  peeps | POC | PIO | POI | come down the pike | POSITA | come down to earth
+       7  uppercase  ->  C | C | P | P | Q | Q | patriarchalism
+       7  Kenya  ->  coconut | chapo | chama | chama | changaa | panya route | CBK
+       7  Non-Oxford  ->  compartmentalisation | pedestrianise | pluralise | catastrophise | conventionalisation | parameterisable | collateralisation
+       6  World-War-I  ->  pip | chat | crab | Pip | cherch | canteen lizard
+       6  modern  ->  pommy | quadrillion | quintillion | constellation | circumcision | poor white trash
+       6  material  ->  cable | cable | cable | cable | polytypic | cold flow
+       6  Texas  ->  polecat | chub | cluck | crawfish | pilon | chubbing
+       6  letter  ->  c | p | q | C | P | Q
+       6  South-Korea  ->  cider | PD | CF | PC bang | queer parade | PC communication
+       6  mnemonic  ->  CHONPS | PEMDAS | change sides, change signs | PASS | PEDMAS | can I keep selling sex for money, officer
+       6  term-of-address  ->  Poppy | puss | pardner | pardner | pencil dick | chummo
+       6  New-York-City  ->  Ps | potsy | potsy | conquestor | pasta fazool | prosciutto bread
+       6  East  ->  chipper | panga | chama | chama | posho | pack-up
+       6  Sri-Lanka  ->  pingo | pingo | quickshaw | perahera | CEJ | paper thosai
+       6  Barbados  ->  chupse | chupse | chattel house | Crop Over | cuhdear | pimploe
+       5  gender-neutral  ->  person | co | co | per | per
+       5  East-Midlands  ->  crew | pot | pot | croggy | crookle
+       5  impersonal  ->  pour | come down | pilm | come to blows | come down in stair rods
+       5  Unix  ->  pipe | crontab | chroot | chmod | chown
+       5  Cincinnati  ->  please | chili | pony keg | cheese coney | chili parlor
+       5  Cumbria  ->  crack | cad | canna | cove | cold fire
+       5  West  ->  pap | punkie | cider house | poyo | Punkie Night
+       5  jargon  ->  positive | cooperate | PLB | QRM | PJA
+       5  Southern-England  ->  pith | chine | cammocky | courtlage | courtledge
+       5  focus  ->  chiefly | chiefly | particularly | primarily | precisely
+       5  European  ->  changeling | post-Brexit | plague doctor | pre-Brexit | Paimon
+       5  Latin-America  ->  chichi | cayo | caporal | pilon | condominial
+       5  Teesside  ->  clag | clem | parmo | clemmy | clemmy
+       5  Jewish  ->  pareve | chok | chaver | possul | chasseneh
+       4  Netherlands  ->  purple | check in | Playa | Playa
+       4  error-misspelling  ->  cut | profligate | cut short | coinstantiated
+       4  Tasmania  ->  pot | cordial | piner | chigga
+       4  Midwestern-US  ->  pop | pop | padiddle | padiddle
+       4  retronym  ->  CISC | PS1 | petrodiesel | print newspaper
+       4  passive  ->  palisade | comprise | promote | Pearl Harbor
+       4  conjunctive  ->  conversely | conversely | consequently | quite the contrary
+       4  Orkney  ->  cubby | peerie | peedie | cooth
+       4  Nepal  ->  purdah | pandit | panchayat | Chanakya
+       4  common  ->  puberty | Plough | crazymaking | Pines
+       4  no-past  ->  catch as catch can | contra | consarn | chut pattern
+       4  name  ->  Plough | phenylamine | purgen | pinch-belly
+       4  vocative  ->  pops | pops | pops | pops
+       4  New-Jersey  ->  call out | Cabbage Night | call out sick | chopped meat
+       4  continuative  ->  present progressive | past progressive | present perfect progressive | past perfect progressive
+       4  perfect  ->  present perfect progressive | past perfect progressive | preterperfect | perfectamundo
+       4  South-America  ->  charqui | pavon | cascalho | queltehue
+       4  error-lua-exec  ->  Charente | Charente | conjugacy class | quiet quit
+       4  comparative-only  ->  quicker than a minnow can swim a dipper | crazier than a junebug | crazier than a June bug | crazier than a shithouse rat
+       3  Mexico  ->  CS | pendejo | chuchupate
+       3  strict-sense  ->  preposition | polynomial | CD103
+       3  Belize  ->  chance | pickney | panade
+       3  analytic  ->  curve | complex projective line | complex line
+       3  noun  ->  congregation | chorus | parasports
+       3  with-of  ->  cause | certain | conceive
+       3  Ontario  ->  Persian | converter | crown ward
+       3  Inland-Northern-American  ->  pop | pop | pank
+       3  Northern-UK  ->  plane | cob | crack
+       3  Brunei  ->  chop | chop | chop
+       3  Namibia  ->  colored | piddle | cuca shop
+       3  with-to  ->  conform | propose | cast one's mind back
+       3  New-Age  ->  positive | photon belt | co-create with God
+       3  Latinism  ->  principal | provide | commit
+       3  mainly  ->  presentation | creasy | parklet
+       3  North  ->  plash | chipper | chapri
+       3  Shetland  ->  plash | plash | peerie
+       3  Quakerism  ->  clerk | programmed | plain speech
+       3  London  ->  cowson | cowson | quietway
+       3  Florida  ->  panther | palmetto bug | po' boy
+       3  genitive  ->  childrens | countesses | Cesars
+       3  South-Wales  ->  plim | plim | cliffage
+       3  emphatic  ->  cash money | crap on a stick | congratufuckinglations
+       3  Jersey  ->  cueillette | centenier | parish assembly
+       3  Nazism  ->  cultural Bolshevism | cultural Bolshevik | contragenic
+       3  traditional  ->  cold-natured | cholaneresis | Chinese patent medicine
+       2  Christian  ->  choir | personal union
+       2  Belgium  ->  purple | CCB
+       2  Mid-Atlantic  ->  pavement | Pollyanna
+       2  Dundee  ->  circle | crivvens
+       2  Taiwan  ->  CTV | chi
+       2  Malta  ->  PBS | cheeselet
+       2  Westminster-system  ->  premier | premier
+       2  Palestinian  ->  PLC | PFLP
+       2  definite  ->  calculus | pill
+       2  Mainland-China  ->  chi | picking quarrels and provoking trouble
+       2  Devon  ->  pope | copper finch
+       2  nominative  ->  per | per
+       2  Lojban  ->  cmavo | pro-sumti
+       2  Bahamas  ->  cleaver | pineyard
+       2  proper-noun  ->  curl | phosphor
+       2  Papua-New-Guinea  ->  cargo | poofter
+       2  numeral  ->  proto- | coding
+       2  Received-Pronunciation  ->  perforate | perforate
+       2  General-American  ->  perforate | perforate
+       2  Britain  ->  Primrose | phiz
+       2  sequence  ->  consequently | chronologically
+       2  Spanish  ->  PP | PSOE
+       2  German  ->  CDU | CSU
+       2  demonym  ->  Pleiad | Planoite
+       2  Late  ->  compleat | compleat
+       2  noun-from-verb  ->  polishing | qualifying
+       2  Central-America  ->  chalchihuitl | charqui
+       2  Macau  ->  chief executive | Chinglish
+       2  imperative-only  ->  put it there | put it there
+       2  phrase  ->  crux gammata | compound modifier
+       2  Church-of-England  ->  PCC | party opponent
+       2  Russia  ->  chistka | cyka
+       2  exaggerated  ->  pretty please with sugar on top | chewren
+       2  Scottish  ->  Pictland | croy
+       2  French  ->  presidentiable | closed o
+       2  Jainism  ->  pudgala | Pushpadanta
+       2  North-America  ->  punch someone's ticket | punch someone's ticket
+       2  plural-of  ->  plurals of excellence | plurals of modesty
+       1  non-scientific  ->  pound
+       1  British-Royal-Navy  ->  craft
+       1  interrogative  ->  can
+       1  positive  ->  cunt
+       1  Romanian  ->  comma
+       1  Cyprus  ->  close
+       1  Norfolk  ->  cast
+       1  Indian-English  ->  civilian
+       1  Southern-Africa  ->  pula
+       1  indirect  ->  circle
+       1  no-comparative  ->  coal
+       1  polite  ->  care
+       1  with-up  ->  PC
+       1  verb  ->  cf
+       1  Roman-Empire  ->  province
+       1  synecdoche  ->  code
+       1  repeated  ->  potato
+       1  Botswana  ->  colored
+       1  personal  ->  che
+       1  universal  ->  congruence
+       1  Harry-Potter  ->  chaser
+       1  singulative  ->  porky
+       1  Vancouver  ->  chine
+       1  Pembrokeshire  ->  caffled
+       1  Southeastern  ->  Pollyanna
+       1  ordinal  ->  proto-
+       1  Medieval  ->  comedy
+       1  British-Army  ->  cootie
+       1  general  ->  quarterfinal
+       1  Ancient-China  ->  censor
+       1  British-Columbia  ->  crummy
+       1  symbol  ->  C
+       1  Greco-Roman  ->  Psyche
+       1  phonetic  ->  CU
+       1  Sweden  ->  CAA
+       1  Vietnam  ->  CAA
+       1  Classical  ->  caesura
+       1  Georgia  ->  coon
+       1  Sikhism  ->  patka
+       1  Ukraine  ->  paska
+       1  Iranian  ->  peri
+       1  Sanskrit  ->  pada
+       1  negative  ->  patently
+       1  direct  ->  posterboard
+       1  Wearside  ->  plodge
+       1  irregular  ->  cherubims
+       1  Manila  ->  cavan
+       1  Dominican-Republic  ->  colmado
+       1  Durham  ->  cuddy
+       1  Montreal  ->  PFK
+       1  masculine  ->  Cedric
+       1  Tibetan  ->  Panchen Lama
+       1  disapproving  ->  pretty boy
+       1  Philadelphia  ->  citywide
+       1  Cuba  ->  practico
+       1  Hebrew  ->  pa'al
+       1  pluperfect  ->  plusquamperfect
+       1  Egyptian  ->  Ptah
+       1  adjectival  ->  compound modifier
+       1  adverbial  ->  compound modifier
+       1  inclusive  ->  Pancyprian
+       1  counterfactual  ->  contrafactual
+       1  including  ->  percenter
+       1  Northamptonshire  ->  pooty
+       1  Mackem  ->  pit-yacker
+       1  Dutch  ->  PVV
+       1  Ancient-Roman  ->  coire licet
+       1  pre-1989-IPA  ->  palatal hook
+       1  Guernsey  ->  cauchie
+       1  Byzantine  ->  protopope
+       1  Mozambique  ->  Catembe
+       1  reciprocal  ->  crawl over each other
+       1  Palestine  ->  Qudsi
+       1  Standard  ->  pay raise
+       1  medial  ->  proximomedial
+       1  proximal  ->  proximomedial
+       1  Navajo  ->  chindi
+       1  no-superlative  ->  comfortable as an old shoe
+       1  Ancient-Egyptian  ->  Qetesh
+       1  place  ->  poverty-ridden
+       1  Virginia  ->  come-here
+       1  Vedic  ->  Prajapati
+       1  Singapore-English  ->  park connector
+       1  Rhodesia  ->  chibuli
+       1  Rastafari  ->  churchical
+       1  Cebu  ->  carton girl
+       1  South-African  ->  cultural centre
+       1  Caithness  ->  peedie
+       1  apocopic  ->  Crawf
+       1  Indo-Aryan-linguistics  ->  CMIA
+       1  Eastern  ->  polynose
+       1  Derbyshire  ->  clusterberry
+       1  affective  ->  Cheetoh
+       1  Benglish  ->  pourasabha
+       1  West-Bengal  ->  pourasabha
+       1  Jehovah's-Witnesses  ->  PIMO
+       1  Middle-Ages  ->  cat-castle
+       1  contemporary  ->  Confederate flag
+       1  Thailand  ->  check bill
+       1  Russian  ->  Popasnaya
+       1  Cork  ->  caffler
+       1  bureaucratese  ->  probationarily
+       1  Persian  ->  Chahr-e Ray
+       1  Aruba  ->  Playa
+       1  Brazilian  ->  petismo
+       1  Uganda  ->  campuser
