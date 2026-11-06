@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>pqc prototype</title>
+  <style>
+    body { font-family: monospace; max-width: 600px; margin: 40px auto; padding: 0 16px; }
+    #phrase { margin: 32px 0; }
+    .word { display: block; font-size: 2rem; cursor: pointer; text-decoration: underline dotted; }
+    .score { font-size: 0.8rem; color: #888; margin-left: 8px; }
+    button, select { font-size: 1rem; padding: 8px 16px; }
+    #history { color: #666; font-size: 0.9rem; }
+    dialog { max-width: 480px; width: calc(100% - 32px); font-family: monospace; }
+    dialog::backdrop { background: rgba(0, 0, 0, 0.4); }
+    #def-word { margin-top: 0; }
+    #def-list li { margin-bottom: 8px; }
+    .pos { font-style: italic; color: #555; margin-right: 6px; }
+  </style>
+</head>
+<body>
+  <h1>p q c</h1>
+
+  <label>words from:
+    <select id="mode">
+      <option value="mix">mix (one rare word, two familiar)</option>
+      <option value="any">anywhere</option>
+      <option value="common">common only (zipf 3+)</option>
+      <option value="known">in between (1.5 to 3)</option>
+      <option value="rare">rare only (under 1.5)</option>
+    </select>
+  </label>
+  <label><input type="checkbox" id="showZipf"> show scores</label>
+  <label><input type="checkbox" id="funnyOnly"> funny words only</label>
+
+  <div id="phrase">
+    <span class="word" id="word-p">loading words...</span><span class="score" id="score-p"></span>
+    <span class="word" id="word-q"></span><span class="score" id="score-q"></span>
+    <span class="word" id="word-c"></span><span class="score" id="score-c"></span>
+  </div>
+  <p id="template" class="score"></p>
+  <button id="go" disabled>generate</button>
+
+  <h3>history</h3>
+  <ol id="history" reversed></ol>
+
+  <dialog id="def-dialog">
+    <h2 id="def-word"></h2>
+    <p id="def-status"></p>
+    <ul id="def-list"></ul>
+    <form method="dialog"><button>close</button></form>
+  </dialog>
+
+  <script src="generator.js"></script>
+</body>
+</html>
